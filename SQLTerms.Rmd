@@ -1,0 +1,18 @@
+---
+title: "SQL Terms and Definitions"
+author: "Mia Murphy"
+date: "08/11/2023"
+output:
+  rmdformats::readthedown: null
+  self_contained: yes
+  html_document:
+    df_print: paged
+thumbnails: yes
+lightbox: yes
+gallery: no
+highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
